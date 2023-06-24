@@ -35,7 +35,7 @@ I am open to new opportunities, collaborations, and discussions. If you would li
 
 - Email: [gandev.com@gmail.com](gandev.com@gmail.com)
 - LinkedIn: [Gustavo Cevallos](https://www.linkedin.com/in/gustavo-cevallos-web-developer/)
-- Personal Website: [gan-dev.vercel.app]([https://www.yourwebsite.com](https://gan-dev.vercel.app/))
+- Personal Website: [gan-dev.vercel.app](https://gan-dev.vercel.app/)
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you!🌟
 

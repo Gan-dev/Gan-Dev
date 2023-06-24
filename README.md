@@ -1,4 +1,4 @@
-# 🌐 Web Develper
+# 🌐 Web Developer
 Welcome to my professional GitHub repository! This repository showcases my skills, projects, and contributions as a web developer. Here, you will find a collection of my work that demonstrates my expertise in various technologies and frameworks. Feel free to explore the repository and get in touch if you have any questions or collaboration opportunities.
 
 ## 🙋‍♂️About Me
